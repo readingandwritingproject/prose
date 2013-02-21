@@ -4,7 +4,7 @@
       <h2>Prose</h2>
 
       <div class="authorize">
-        <p>Prose is a content editor for managing our website.</p>
+        <p>Prose is a content editor.</p>
         <p><a href="/about.html">Learn more.</a></p>
         <a class="button" href="https://github.com/login/oauth/authorize?client_id={{site.oauth_client_id}}&scope=repo,user,gist">Authorize with GitHub</a>
       </div>
