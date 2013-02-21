@@ -7,3 +7,4 @@ gatekeeper_url: http://gatekeeper.readingandwritingproject.com
 exclude:
 - .gitignore
 - README.md
+- README
