@@ -3,7 +3,7 @@ server: false
 pygments: false
 permalink: none
 oauth_client_id: 98fcbba0c51a75bc2585
-gatekeeper_url: http://gatekeeper.readingandwritingproject.com
+gatekeeper_url: http://gatekeeper.readingandwritingproject.com:9999
 exclude:
 - .gitignore
 - README.md
