@@ -342,7 +342,7 @@ views.Post = Backbone.View.extend({
           mode: 'yaml',
           value: that.model.raw_metadata,
           theme: 'prose-dark',
-          lineWrapping: true,
+          lineWrapping: false,
           lineNumbers: true,
           extraKeys: that.keyMap(),
           onChange: _.bind(that._makeDirty, that)
@@ -352,7 +352,7 @@ views.Post = Backbone.View.extend({
       that.editor = CodeMirror($('#code')[0], {
         mode: that.model.lang,
         value: that.model.content,
-        lineWrapping: true,
+        lineWrapping: false,
         lineNumbers: true,
         extraKeys: that.keyMap(),
         matchBrackets: true,
