@@ -143,7 +143,7 @@ Use 4 spaces indentation:
       </div>
 
       <div class="content-wrapper">
-        <div class="content">
+        <div class="content2">
           <div id="code"></div>
         </div>
       </div>
