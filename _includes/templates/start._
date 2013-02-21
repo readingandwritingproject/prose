@@ -21,7 +21,7 @@
     </div>
   <% } %>
 
-  <h1>Repositories</h2>
+<!--  <h1>Repositories</h2>
   <% _.each(owners, function(repos, owner) { %>
     <% if (Object.keys(owners).length > 1) { %>
       <div class="owner"><a href="#<%= owner %>"><%= owner %></a>
@@ -37,5 +37,5 @@
           </a>
         <% }); %>
     </div>
-  <% }); %>
+  <% }); %> -->
 <% } %>
