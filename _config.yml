@@ -8,3 +8,4 @@ exclude:
 - .gitignore
 - README.md
 - README
+- README.txt
