@@ -1,10 +1,9 @@
-auto: true
-server: true
-pygments: true
+auto: false 
+server: false 
+pygments: false
 permalink: none
-baseurl: ""
-oauth_client_id: c602a8bd54b1e774f864
-gatekeeper_url: http://prose-gatekeeper.herokuapp.com
+oauth_client_id: 98fcbba0c51a75bc2585
+gatekeeper_url: http://gatekeeper.readingandwritingproject.com
 exclude:
 - .gitignore
 - README.md
